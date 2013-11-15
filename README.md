@@ -19,3 +19,5 @@ OpenHatch.org:
 OpenHatch is a non-profit dedicated to getting more people involved in open source. As of 14 November 2013, they're tracking 777 open source projects.
 
 "You miss one hundred percent of the shots you never take." - Wayne Gretzky
+
+https://help.github.com/articles/fork-a-repo <- More info on forking!
